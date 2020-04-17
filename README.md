@@ -1,2 +1,2 @@
-# 6Continent.github.co
+# 6Continent.github.io
 Practice
